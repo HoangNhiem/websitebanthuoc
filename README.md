@@ -6,7 +6,7 @@ Chào mừng bạn đến với trang giới thiệu đội ngũ quản lý củ
 
 ## Nguyễn Văn Minh Tú
 
-![Nguyễn Văn Minh Tú](minhtu_thumb.jpg){width=100}  
+![Nguyễn Văn Minh Tú](minhtu.jpg){width=100}  
 **Chức vụ:** Giám đốc điều hành
 
 - 📧 Email: [minhtu@example.com](mailto:minhtu@example.com)
