@@ -6,7 +6,7 @@ Chào mừng bạn đến với trang giới thiệu đội ngũ quản lý củ
 
 ## Nguyễn Văn Minh Tú
 
-![Nguyễn Văn Minh Tú](minhtu.jpg){width=100}  
+![Nguyễn Văn Minh Tú](minhtu.jpg)
 **Chức vụ:** Giám đốc điều hành
 
 - 📧 Email: [minhtu@example.com](mailto:minhtu@example.com)
@@ -15,7 +15,7 @@ Chào mừng bạn đến với trang giới thiệu đội ngũ quản lý củ
 
 ## Lê Minh Khiết
 
-![Lê Minh Khiết](minhkhiet_thumb.jpg){width=100}  
+![Lê Minh Khiết](minhkhiet.jpg) 
 **Chức vụ:** Trưởng phòng Marketing
 
 - 📧 Email: [minhkhiet@example.com](mailto:minhkhiet@example.com)
@@ -24,7 +24,7 @@ Chào mừng bạn đến với trang giới thiệu đội ngũ quản lý củ
 
 ## Nguyễn Hoàng Nhiệm
 
-![Nguyễn Hoàng Nhiệm](hoangnhiem_thumb.jpg){width=100}  
+![Nguyễn Hoàng Nhiệm](hoangnhiem.jpg)
 **Chức vụ:** Phó Giám đốc Kỹ thuật
 
 - 📧 Email: [hoangnhiem@example.com](mailto:hoangnhiem@example.com)
