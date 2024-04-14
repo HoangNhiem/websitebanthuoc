@@ -28,7 +28,7 @@ Chào mừng bạn đến với trang giới thiệu đội ngũ quản lý củ
 **Chức vụ:** Phó Giám đốc Kỹ thuật
 
 - 📧 Email: [hoangnhiem@example.com](mailto:hoangnhiem@example.com)
-- 🔗 LinkedIn: [Nguyễn Hoàng Nhiệm](https://www.linkedin.com/in/hoangnhiem)
+- 🔗 LinkedIn: [Trương Hoàng Nhiệm](https://www.linkedin.com/in/hoangnhiem)
 - 🎉 Lời nhắn: "Nếu công nghệ là thuốc, tôi là bác sĩ của nó. Đừng lo, máy chủ của chúng tôi không bao giờ cần thuốc kháng sinh!"
 
 ---
