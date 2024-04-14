@@ -24,7 +24,7 @@ Chào mừng bạn đến với trang giới thiệu đội ngũ quản lý củ
 
 ## Trương Hoàng Nhiệm
 
-![Trương Hoàng Nhiệm]()
+![Trương Hoàng Nhiệm](thn.jpg)
 **Chức vụ:** Phó Giám đốc Kỹ thuật
 
 - 📧 Email: [hoangnhiem@example.com](mailto:hoangnhiem@example.com)
